@@ -6,14 +6,14 @@ Module for ecommerce platform
 		Control multiple modules of application from one Administration Panel 
 
 
-(1) . Product Browsing
+(2) . Product Browsing
 		
 		Multiple Images Per Product
 		Product Reviews
 		Related Products
 		Stock Availability
 
-(2) . Order Management
+(3) . Order Management
 
 		View, edit, create and fulfill orders from admin panel
 		Create one or multiple invoices, shipments and credit memos per order to allow for split fulfillment
@@ -21,7 +21,7 @@ Module for ecommerce platform
 		Email Notifications of Orders
 
 
-(3) . Shipping
+(4) . Shipping
 
 		Integrated for real-time shipping rates
 		Shipping to multiple addresses in one order
@@ -30,7 +30,7 @@ Module for ecommerce platform
 		Flat rate shipping per item
 		Free Shipping		
 
-(3) . Payment
+(5) . Payment
 
 		Configurable to authorize and charge, or authorize only and on creation of invoices
 		Integrated with multiple PayPal gateways
@@ -38,7 +38,7 @@ Module for ecommerce platform
 		Accept Checks/Money Orders
 		Accept Purchase Orders
 
-(2) . Customer Accounts
+(6) . Customer Accounts
 
 		Order status and history
 		Re-orders from account
@@ -52,7 +52,7 @@ Module for ecommerce platform
 		Product Reviews submitted		
 
 
-(3) . Business Reports
+(7) . Business Reports
 
 		Integrated with Google Analytics
 		Admin Dashboard for Report Overview
@@ -65,7 +65,7 @@ Module for ecommerce platform
 		Total Sales Refunded
 		Best Customers Report by Total and Number of Orders		
 
-(3) . Analytics and Reporting
+(8) . Analytics and Reporting
 
 		Integrated with Boodle Analytics
 		Admin Dashboard for Report Overview
